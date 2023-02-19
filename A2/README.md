@@ -1,5 +1,5 @@
 
-#Topic Covered
+# Topic Covered
 
 Problem 1: Gradient Descent Update Rule
 
